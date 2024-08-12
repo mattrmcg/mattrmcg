@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 Hey I'm Matt! I'm a computer science student with a strong interest in backend development, cloud-native infrastructure, and FinTech. I have a strong background in Java and its associated object oriented paradigms, as well as a high level of proficiency in JavaScript, Python, and Go. I'm currently working on refining my recently-launched FinTech-oriented project: [Equitalytics.com](https://www.equitalytics.com).
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattmgr) 
 
 # 💻 Tech Stack:
