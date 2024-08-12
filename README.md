@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey I'm Matt! I'm a computer science student with a strong interest in backend development, cloud-native infrastructure, and FinTech. I'm currently working on refining my recently-launched project: Equitalytics.com, as well as deepening my understanding of Cloud Platforms such as AWS and Azure, and how to best utilize them.
+Hey I'm Matt! I'm a computer science student with a strong interest in backend development, cloud-native infrastructure, and FinTech. I'm currently working on refining my recently-launched project: Equitalytics.com, as well as deepening my understanding of Cloud Platforms such as AWS and Azure.
 
 
 ## 🌐 Socials:
