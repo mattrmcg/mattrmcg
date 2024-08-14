@@ -1,5 +1,5 @@
 # About Me:
-Hey I'm Matt! I'm a computer science student with a strong interest in backend development, cloud-native infrastructure, and FinTech. I have a strong background in Java and its associated object oriented paradigms, as well as a high level of proficiency in JavaScript, Python, and Go. I'm currently working on refining my recently-launched FinTech-oriented project: [Equitalytics.com](https://www.equitalytics.com).
+Hey I'm Matt! I'm a computer science student with a strong interest in backend development, cloud-native infrastructure, and FinTech. I have a strong background in Java and its associated object oriented paradigms, as well as a high level of proficiency in Go, Python, and JavaScript. I'm currently working on refining my recently-launched FinTech-oriented project: [Equitalytics.com](https://www.equitalytics.com).
 
 
 ## 🌐 Connect with me:
