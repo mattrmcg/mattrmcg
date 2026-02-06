@@ -5,6 +5,8 @@ Computer science student with a strong interest in backend, networking, and dist
 
 
 Check out some projects of mine: \
+[![Readme Card](https://mattrmcg-readme-stats.vercel.app/api/pin?username=mattrmcg&repo=ground-station-sim&theme=gruvbox)](https://github.com/mattrmcg/ground-station-sim)
+
 [![Readme Card](https://mattrmcg-readme-stats.vercel.app/api/pin/?username=mattrmcg&repo=equitalytics-frontend&theme=gruvbox)](https://github.com/mattrmcg/equitalytics-frontend)
 
 [![Readme Card](https://mattrmcg-readme-stats.vercel.app/api/pin/?username=mattrmcg&repo=ids&theme=gruvbox)](https://github.com/mattrmcg/ids)
